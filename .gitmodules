@@ -1,3 +1,6 @@
 [submodule "Assets/CustomPackages/AssetManagerPackage"]
 	path = Assets/CustomPackages/AssetManagerPackage
 	url = git@github.com:LittleFive555/AssetManagerPackage.git
+[submodule "ExternalTools/ConfigToolByExcel"]
+	path = ExternalTools/ConfigToolByExcel
+	url = git@github.com:LittleFive555/ConfigToolByExcel.git
